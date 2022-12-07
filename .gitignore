@@ -1,2 +1,4 @@
 secret.py 
+README.md
 __pycache__/
+.dockerignore
